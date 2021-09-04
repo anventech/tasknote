@@ -1,0 +1,34 @@
+{
+  "name": "tasknote",
+  "version": "1.0.0",
+  "description": "CLI para anotar to-do (cosas por hacer).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anventech/tasknote.git"
+  },
+  "keywords": [
+    "task",
+    "note",
+    "tasknote",
+    "todo",
+    "to-do"
+  ],
+  "author": "anventech",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anventech/tasknote/issues"
+  },
+  "homepage": "https://github.com/anventech/tasknote#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.0.2"
+  }
+}
