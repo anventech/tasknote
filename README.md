@@ -28,7 +28,7 @@ CLI para anotar to-do (cosas por hacer).
   - Descargar los archivos de este repositorio.
   - Hacer una carpeta para Tasknote (ponle el nombre que desees).
   - Descomprime los archivos en la carpeta.
-- Paso 3:
+- Paso 2:
   - Copia la ruta de la carpeta creada.
   - Abre la línea de comandos (cmd) o la terminal de tu preferencia y ejecuta el comando `cd` seguido de la ruta copiada, así: `cd <Ruta>` (sin los <>)
 - Paso 3:
@@ -47,7 +47,7 @@ Los comandos del CLI, como verán, algunos estarán separados por comas, esto si
 
 ### -t, --task
 
-El comando principal, a través de este comando puedes crear tareas, se usa así: `node . --task Darle estralla al repositorio de Tasknote.`
+El comando principal, a través de este comando puedes crear tareas, se usa así: `node . --task Darle estrella al repositorio de Tasknote.`
 
 ### -c, --check
 
